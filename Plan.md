@@ -1,5 +1,5 @@
-String and Text Handling (String, StringBuilder)/n
-•	System.String
+String and Text Handling (String, StringBuilder)
++	[System.String]
 •	Compare strings
 •	Ordinal comparison or comparison, sensitive to culture
 •	Comparison of string equivalence
