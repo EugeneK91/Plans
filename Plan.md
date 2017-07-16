@@ -1,4 +1,4 @@
-String and Text Handling (String, StringBuilder)
+String and Text Handling (String, StringBuilder)/n
 •	System.String
 •	Compare strings
 •	Ordinal comparison or comparison, sensitive to culture
