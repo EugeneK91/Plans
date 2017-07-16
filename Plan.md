@@ -1,15 +1,15 @@
 String and Text Handling (String, StringBuilder)
 +	[System.String]
-•	Compare strings
-•	Ordinal comparison or comparison, sensitive to culture
-•	Comparison of string equivalence
-•	Comparing the order of rows
-•	Internition of strings
-•	Creating row pools
-•	Working with symbols and text elements in a string
-•	Access to characters inside the string
-•	Create an object StringBuilder( maximum capacity, capacity, character array)
-•	Getting a string representation of an object
++	Compare strings
++	Ordinal comparison or comparison, sensitive to culture
++	Comparison of string equivalence
++	Comparing the order of rows
++	Internition of strings
++	Creating row pools
++	Working with symbols and text elements in a string
++	Access to characters inside the string
++	Create an object StringBuilder( maximum capacity, capacity, character array)
++	Getting a string representation of an object
 
 Formatting and Parsing
 •	ToString и Parse
