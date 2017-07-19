@@ -1,0 +1,32 @@
+Generic
++ Generic benefits
++ Generic types and inheritance
++ Generic interfaces
++ Contravariant and covariant
++ Generic methods
++ Basic limitations
++ Additional limitations
++ Constructor limitations
++ Comparison of a generic type variable with null
+
+Collections
++ IEnumerable è IEnumerator
++ Implementing Enumeration Interfaces
++ Iterator
+
+Linq 
++ Where applicable
++ IQuerable , IEnumerable
++ Lazy execution
++ Operation
++ let, into ,join
++ Expression trees
+
+
+Resource management
++ Memory management based on the list of free blocks
++ Assembling the garbage based on reference counting
++ Parallel gc
++ Non-parallel gc
++ Generation
++ Large object heap
