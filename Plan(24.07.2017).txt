@@ -1,0 +1,31 @@
+Patterns
+Behavior patterns:
+-Strategy
+-Template Method
+-Mediator
+-Iterator
+-Observer
+-Visitor
+-Command
+-State
+-Chain of responsibility
+
+Generating Patterns
+-Singleton
+-Abstract Factory
+-Factory Method
+-Builder
+
+Structural Patterns
+-Adapter
+-Facade
+-Decorator
+-Composite
+-Proxy
+
+Solid
+-Single-Responsibility Principle(SRP)
+-Open-Closed Principle(OCP)
+-Liskov Substitution Principle(LSP)
+-Interface Segregation Principle(ISP)
+-Dependency Inversion Principle(DIP)
