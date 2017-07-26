@@ -1,0 +1,35 @@
+PipeLine MVC
+1)IIS
+2)Routing
+  -Url routing Module
+  -Matching Route Entry
+  -RiuteHandler
+3)Controller Initizlization
+  -Http Handler
+  -Controller Factory
+  -Controller
+4)Action Execut
+  -action Invoker
+  -Model Binder
+  -Authentication filter
+  -autorization filter
+  -action filter
+  -action execution
+  -action filter
+  -action result
+5)Result Execution
+  -Result Filter
+  -View result
+  -View Engine
+  -View
+  -Html helpers and validation rules
+  -Result Filter
+
+XML
+1)XML Parse
+2) Well formed
+3) Valid Xml
+4) XPass
+
+EF
+1) EDMX
